@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-03-31T10:00:00",
+  "total_pnl": 1250.5,
+  "trade_count": 8,
+  "pnl_per_symbol": {
+    "BANKNIFTY": 420.0,
+    "NIFTY": 830.5
+  }
+}
